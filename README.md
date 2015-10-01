@@ -88,7 +88,7 @@ out = f( true, null, done );
 
 ## Notes
 
-*	Isolating `try/catch` blocks in separate `functions` prevents a parent scope from entering optimization hell.
+*	Isolating `try/catch` blocks as separate wrapped `functions` prevents a parent scope from permanently entering optimization hell.
 
 
 ## Examples

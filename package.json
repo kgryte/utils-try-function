@@ -1,6 +1,6 @@
 {
   "name": "utils-try-function",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Wraps a function in a try/catch block.",
   "author": {
     "name": "Athan Reines",
